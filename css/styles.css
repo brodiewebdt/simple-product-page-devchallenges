@@ -134,7 +134,7 @@ h6 {
 }
 
 body {
-  color: var(--color-neutral-400);
+  color: var(--color-neutral-900);
   font-family: var(--ff-base);
   font-size: var(--fs-base);
   line-height: 1.6;

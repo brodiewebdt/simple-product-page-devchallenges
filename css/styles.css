@@ -1,18 +1,17 @@
 :root {
   /* Primary Colors */
-  --color-primary-400: hsl(227, 67%, 48%);
-  --color-primary-500: hsl(227, 82%, 38%);
+  --color-primary-400: hsl(261, 65%, 50%);
 
   /* Neutral Colors */
   --color-neutral-100: hsl(0, 0%, 100%);
   --color-neutral-200: hsl(210, 20%, 98%);
-  --color-neutral-300: hsl(220, 13%, 91%);
-  --color-neutral-400: hsl(221, 8%, 46%);
-  --color-neutral-800: hsl(219, 17%, 27%);
+  --color-neutral-300: hsl(220, 14%, 96%);
+  --color-neutral-400: hsl(217, 10%, 84%);
+  --color-neutral-700: hsl(219, 17%, 27%);
   --color-neutral-900: hsl(0, 0%, 0%);
 
   /* Font Family */
-  --ff-base: 'Poppins', sans-serif;
+  --ff-base: 'Outfit', sans-serif;
 
   /* Font Size */
   --fs-48: 3rem;
@@ -44,7 +43,10 @@
   --spacing-16: 1rem;
   --spacing-20: 1.25rem;
   --spacing-24: 1.5rem;
-  --spacing-60: 3.75rem;
+  --spacing-32: 2rem;
+  --spacing-36: 2.25rem;
+  --spacing-40: 2.5rem;
+  --spacing-52: 3.25rem;
   --spacing-80: 5rem;
 }
 
